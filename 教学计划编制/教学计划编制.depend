@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1624496871 source:d:\cb\教学计划编制\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"Graph.h"
+	"prior.h"
+
+1624347686 d:\cb\教学计划编制\queue.h
+
+1624375445 d:\cb\教学计划编制\graph.h
+
+1624376392 d:\cb\教学计划编制\prior.h
+
+1643783615 source:d:\tencent\qqchat\个人文件夹\1973355104\filerecv\copy\copy\c语言课设\3190673013-吴世杰-计191-5\3190673013-吴世杰-计191-5\教学计划编制\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"Graph.h"
+	"prior.h"
+
+1624375445 d:\tencent\qqchat\个人文件夹\1973355104\filerecv\copy\copy\c语言课设\3190673013-吴世杰-计191-5\3190673013-吴世杰-计191-5\教学计划编制\graph.h
+
+1624376392 d:\tencent\qqchat\个人文件夹\1973355104\filerecv\copy\copy\c语言课设\3190673013-吴世杰-计191-5\3190673013-吴世杰-计191-5\教学计划编制\prior.h
+
